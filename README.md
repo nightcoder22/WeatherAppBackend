@@ -1,6 +1,8 @@
 # WeatherAppBackend
 Spring-Hibernate based backend for Weather App
 
+# **Technologies used - SpringBoot, Hibernate, H2, Tomcat, Spring Data JPA, Mockito, Java Validations, Exception Handlers, JUnit**
+
 Output Screenshots:
 
 1. Post user with configuration - Success!
